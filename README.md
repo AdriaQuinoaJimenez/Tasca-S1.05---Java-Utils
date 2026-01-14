@@ -1,8 +1,4 @@
-Aquí tienes el código en formato Markdown listo para que lo copies y pegues directamente en tu archivo README.md. He incluido los bloques de código y la estructura exacta que solicitaste.
-
-Markdown
-
-# TASCA S1.05: Java Utils - Nivel 1
+CA S1.05: Java Utils - Nivel 1
 
 **Descripció**: Este proyecto consiste en el desarrollo de una serie de utilidades en Java para la gestión del sistema de archivos. El objetivo es dominar la navegación por directorios, el tratamiento recursivo de carpetas, la lectura/escritura de archivos de texto y la persistencia de datos mediante la serialización de objetos.
 
@@ -16,6 +12,9 @@ El Nivel 1 se divide en 5 funcionalidades progresivas:
 3. **Ejercicio 3**: Exportación del listado del árbol a un archivo `.txt`.
 4. **Ejercicio 4**: Lectura y muestra por consola de cualquier archivo `.txt`.
 5. **Ejercicio 5**: Serialización y deserialización de un objeto `User` a un archivo `.ser`.
+
+### Nivel 2: Parametrización Externa
+1. **Ejercicio 1**: Modificación del listado recursivo para que la configuración (directorio de entrada y archivo de salida) se lea desde un archivo `config.properties` en lugar de argumentos de consola.
 
 ---
 
