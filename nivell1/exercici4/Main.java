@@ -11,7 +11,8 @@ public class Main {
         }
 
         File file = new File(args[0]);
-        if (!file.exists() || !file.isDirectory()) {
+        System.out.println("Buscando archivo aqui: " + file.getAbsolutePath());
+        if (!file.exists() || !file.isFile()) {
             System.err.println("The path does not exist or is not a directory.");
             return;
         }
@@ -20,7 +21,7 @@ public class Main {
 
     public static void readExternFile(File file) {
         try {
-            BufferedReader br = new BufferedReader(new FileReader("extern.txt"));
+            BufferedReader br = new BufferedReader(new FileReader(file));
             String line;
             while((line = br.readLine()) != null){
                 System.out.println(line);
