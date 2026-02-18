@@ -1,8 +1,6 @@
 package nivell1.exercici2;
 
-import java.io.File;
-import java.text.SimpleDateFormat;
-import java.util.Arrays;
+import nivell1.exercici2.model.OrderListFormat;
 
 public class Main {
     public static void main(String[] args) {
@@ -12,40 +10,7 @@ public class Main {
             return;
         }
 
-        File directory = new File(args[0]);
-        if (!directory.exists() || !directory.isDirectory()) {
-            System.err.println("The path does not exist or is not a directory.");
-            return;
-        }
-
-        listDirectoryAndFiles(directory, "");
-    }
-
-    public static void listDirectoryAndFiles(File directory, String prefix) {
-        File[] files = directory.listFiles();
-
-        if(files == null){
-            return;
-        }
-
-        Arrays.sort(files);
-        SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy HH:mm:ss");
-
-        for (File file : files) {
-            String type;
-            String date;
-
-            if(file.isDirectory()){
-                type = "D";
-            }else{
-                type = "F";
-            }
-            date = sdf.format(file.lastModified());
-            System.out.println(prefix + file.getName() + " - " + type + " - " + date);
-
-            if(file.isDirectory()){
-                listDirectoryAndFiles(file, prefix + "\t");
-            }
-        }
+        OrderListFormat app = new OrderListFormat(args[0]);
+        app.run();
     }
 }

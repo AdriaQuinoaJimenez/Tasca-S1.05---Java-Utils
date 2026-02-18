@@ -8,7 +8,7 @@ public class OrderList {
     private String[] filesList;
 
     public OrderList(String directoryPath) {
-        directory = new File(directoryPath);
+        this.directory = new File(directoryPath);
     }
 
     public void run(){
