@@ -1,39 +1,35 @@
-package nivell1.exercici3.model;
+package nivell2.model;
 
-import java.io.BufferedWriter;
-import java.io.File;
-import java.io.FileWriter;
-import java.io.IOException;
+import java.io.*;
 import java.text.SimpleDateFormat;
 import java.util.Arrays;
+import java.util.Properties;
 
-public class OrderListFormatInFile {
-    private File directory;
-    private String filename;
+public class WriteFileProperties {
+    private Properties prop;
 
-    public OrderListFormatInFile(String directoryPath, String filenamePath) {
-        this.directory = new File(directoryPath);
-        this.filename = filenamePath;
+    public WriteFileProperties() {
+        this.prop = new Properties();
     }
 
     public void run(){
-        if(!verifyDirectory()){
-            return;
-        }
-
-        try(BufferedWriter writer = new BufferedWriter(new FileWriter(filename))) {
-            listDirectoryAndFiles(directory, "", writer);
-        } catch (IOException e) {
-            throw new RuntimeException(e);
-        }
+        readProperties();
     }
 
-    public boolean verifyDirectory(){
-        if (!directory.exists() || !directory.isDirectory()) {
-            System.err.println("The path does not exist or is not a directory.");
-            return false;
+    public void readProperties(){
+        try(FileInputStream fis = new FileInputStream("config.properties")) {
+            prop.load(fis);
+
+            String inputPath = prop.getProperty("read_this_directory");
+            String outputPath = prop.getProperty("output_file");
+
+            File directory = new File(inputPath);
+            try(BufferedWriter writer = new BufferedWriter(new FileWriter(outputPath))) {
+                listDirectoryAndFiles(directory, "", writer);
+            }
+        }catch(IOException e) {
+            System.err.println(e.getMessage());
         }
-        return true;
     }
 
     public void listDirectoryAndFiles(File directory, String prefix, BufferedWriter writer) throws IOException {
