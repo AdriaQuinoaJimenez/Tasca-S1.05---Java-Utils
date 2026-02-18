@@ -9,20 +9,21 @@ import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) {
-        String fileName = "files.txt";
 
-        if (args.length != 1) {
+        if (args.length != 2) {
             System.err.println("Error. Missing argument! Please provide a directory path.");
             return;
         }
 
         File directory = new File(args[0]);
+        String filename = args[1];
+
         if (!directory.exists() || !directory.isDirectory()) {
             System.err.println("The path does not exist or is not a directory.");
             return;
         }
 
-        try(BufferedWriter writer = new BufferedWriter(new FileWriter(fileName))) {
+        try(BufferedWriter writer = new BufferedWriter(new FileWriter(filename))) {
             listDirectoryAndFiles(directory, "", writer);
         } catch (IOException e) {
             throw new RuntimeException(e);
