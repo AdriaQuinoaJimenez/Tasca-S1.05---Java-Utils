@@ -1,0 +1,139 @@
+.RData - F - 30/12/2025 14:01:09
+.Rhistory - F - 30/12/2025 14:01:09
+1_Modulo1-1 (1).pdf - F - 08/10/2025 17:46:59
+1_Modulo1-1.pdf - F - 29/09/2025 14:43:57
+2-Planificacion_06_Plan_gestion_riesgos Plantilla.docx - F - 16/11/2025 21:40:37
+2-Planificacion_06_Plan_gestion_riesgos Plantilla_Finalizado.pdf - F - 16/11/2025 21:39:17
+75.571_PEC2_Enunciado_CAST_20251.pdf - F - 06/01/2026 14:48:42
+75571_ Enunciado PRA1_20251_CAST.pdf - F - 16/11/2025 11:44:45
+75571_Enunciado PRA2_20251_CAST.pdf - F - 12/12/2025 14:12:00
+annotated-PEC2_Enunciado.pdf - F - 11/11/2025 20:08:49
+Autocandidatura (1) (1).docx - F - 15/01/2026 13:10:23
+ChromeSetup.exe - F - 15/08/2025 18:48:34
+Compendi recursos_ TIC_ES_tcm24-53709 (5).pdf - F - 15/01/2026 13:09:40
+corazon.png - F - 08/10/2025 17:39:23
+DATA-1.csv - F - 16/12/2025 19:02:26
+DATA.csv - F - 25/11/2025 18:35:39
+datosreto2.zip - F - 11/11/2025 16:59:05
+datosreto5.zip - F - 29/12/2025 17:32:07
+desktop.ini - F - 15/10/2025 18:12:15
+DiscordSetup.exe - F - 15/08/2025 19:00:33
+Docker Desktop Installer.exe - F - 09/02/2026 10:35:14
+EC_PEC1_(enunciado).docx - F - 18/10/2025 21:10:27
+EC_PEC2_(Enunciado).docx - F - 08/12/2025 19:55:27
+EmptySaleException.java - F - 10/02/2026 21:44:49
+Entorno_de_trabajo (1).zip - F - 18/11/2025 15:12:46
+Entorno_de_trabajo (2).zip - F - 18/12/2025 10:46:04
+Entorno_de_trabajo.zip - F - 10/11/2025 19:15:44
+FEIGAE_M2_Planificacion_3_Documentacion.zip - F - 16/11/2025 20:14:35
+FEIGAE_M3_Ejecucion_3_Documentacion.zip - F - 12/12/2025 15:27:45
+Gestión_de_Proyectos_3ea67d34.pptx - F - 19/10/2025 21:53:22
+Gestión_de_Proyectos_ab3dcffc.pptx - F - 19/10/2025 19:23:26
+Git-2.52.0-64-bit.exe - F - 09/12/2025 11:38:42
+gitignore.txt - F - 15/12/2025 18:54:14
+idea-2025.3.2.exe - F - 26/01/2026 13:01:53
+ideaIU-2025.2.exe - F - 27/08/2025 15:58:24
+images - D - 30/12/2025 13:29:56
+	clipboard-104035698.png - F - 30/12/2025 13:29:20
+	clipboard-3524966743.png - F - 30/12/2025 13:28:42
+	clipboard-71583291.png - F - 30/12/2025 13:29:56
+IMG_9634.jpeg - F - 08/12/2025 18:19:49
+IMG_9635.jpeg - F - 08/12/2025 18:19:48
+IMG_9636.jpeg - F - 08/12/2025 18:43:08
+IMG_9637.jpeg - F - 08/12/2025 18:56:49
+IMG_9638.jpeg - F - 08/12/2025 19:24:09
+IMG_9639.jpeg - F - 08/12/2025 19:24:11
+Informe_seguimiento_Aguas_Zaragoza_2025_1_plantilla.docx - F - 12/12/2025 15:05:08
+Install_rekordbox_x64_7_2_4.zip - F - 17/10/2025 22:04:51
+jdk-17.0.16_windows-x64_bin.exe - F - 27/08/2025 16:08:50
+jdk-21.0.8_windows-x64_bin.exe - F - 09/12/2025 12:33:51
+jdk-25_windows-x64_bin.exe - F - 09/12/2025 11:32:55
+jobs_in_data.csv - F - 28/10/2025 14:10:01
+jre-8u471-windows-i586-iftw.exe - F - 16/11/2025 12:31:40
+letra-h-de-tipografia-llena-de-huesos-de-halloween.png - F - 07/10/2025 16:03:56
+letra-n-de-huesos-rellenos-tipografia-de-halloween.png - F - 07/10/2025 16:06:06
+letra-w-de-huesos-tipografia-llena-de-halloween.png - F - 07/10/2025 16:04:48
+LinuxAsm.ova - F - 10/11/2025 19:19:41
+listado grupos ing inf (1).pdf - F - 14/11/2025 12:18:21
+listado grupos ing inf.pdf - F - 14/11/2025 12:18:20
+Main.java - F - 10/02/2026 21:44:40
+Moon Modeler-12.0.0-x64.exe - F - 09/02/2026 12:32:36
+mysql-9.6.0-winx64.msi - F - 26/01/2026 11:58:37
+mysql-workbench-community-8.0.46-winx64.msi - F - 26/01/2026 13:50:03
+Netflix-Movies-Sample-Data.xlsx - F - 13/10/2025 19:48:40
+notesfitxer2.csv - F - 30/12/2025 13:01:08
+OBS-Studio-32.0.2-Windows-x64-Installer.exe - F - 16/11/2025 22:17:36
+PAC0Rstudio_IBE (1).Rmd - F - 28/09/2025 15:03:56
+PAC0Rstudio_IBE (2).Rmd - F - 28/10/2025 14:31:02
+PAC0Rstudio_IBE--1-.docx - F - 28/09/2025 15:03:57
+PAC0Rstudio_IBE--1-.pdf - F - 28/09/2025 15:04:50
+PAC0Rstudio_IBE--1-.tex - F - 28/09/2025 14:57:54
+PAC0Rstudio_IBE.Rmd - F - 28/09/2025 14:40:55
+PAC6_T25_ibe_v2.docx - F - 30/12/2025 14:00:59
+PAC6_T25_ibe_v2.pdf - F - 30/12/2025 13:00:55
+PAC6_T25_ibe_v2.Rmd - F - 30/12/2025 13:59:42
+PAC6_T25_ibe_v2.tex - F - 30/12/2025 13:20:12
+PEC1_T25_enunc_IBE (1).pdf - F - 13/10/2025 19:48:46
+PEC1_T25_enunc_IBE.docx - F - 13/10/2025 20:47:29
+PEC1_T25_enunc_IBE.pdf - F - 13/10/2025 19:45:27
+PEC1_T25_enunc_IBE.Rmd - F - 13/10/2025 20:44:14
+PEC2_Enunciado.docx - F - 28/10/2025 16:00:48
+PEC2_Enunciado.pdf - F - 28/10/2025 14:09:22
+PEC2_Enunciado.Rmd - F - 28/10/2025 15:59:08
+PEC3_P2025_2_enun.docx - F - 11/11/2025 20:14:50
+PEC3_P2025_2_enun.Rmd - F - 11/11/2025 20:14:49
+PEC4_T25_IBE_enu.docx - F - 25/11/2025 20:07:20
+PEC4_T25_IBE_enu.pdf - F - 25/11/2025 18:34:28
+PEC4_T25_IBE_enu.Rmd - F - 25/11/2025 20:07:19
+PEC5_T25_IBE_enu-1.docx - F - 16/12/2025 20:17:02
+PEC5_T25_IBE_enu-1.pdf - F - 16/12/2025 19:02:12
+PEC5_T25_IBE_enu-1.Rmd - F - 16/12/2025 20:17:00
+PID_00247938.pdf - F - 16/11/2025 11:58:49
+PID_00247943.pdf - F - 16/11/2025 11:58:57
+PID_00269797.pdf - F - 25/11/2025 14:05:22
+PID_00269798.pdf - F - 25/11/2025 14:03:35
+PID_00269799.pdf - F - 25/11/2025 14:05:10
+PID_00269801.pdf - F - 25/11/2025 14:03:48
+PID_00273858.pdf - F - 25/11/2025 14:04:25
+PID_00273871.pdf - F - 25/11/2025 14:03:54
+PID_00279912.pdf - F - 25/11/2025 14:04:02
+PID_00279914.pdf - F - 25/11/2025 14:04:37
+Plantilla CV 2 Columnes (1) (1) (1).pdf - F - 15/01/2026 13:09:25
+Plantilla CV IA (2).pdf - F - 15/01/2026 13:09:08
+PR1_Enun-ES (1).zip - F - 12/11/2025 15:42:23
+PR1_Enun-ES (2) - D - 18/11/2025 11:15:52
+	PR1_Enun-ES - D - 18/11/2025 11:15:52
+		BMp1-es.asm - F - 18/11/2025 11:15:52
+		BMp1c-es.c - F - 18/11/2025 11:15:52
+		EC_set25-feb26_PRACTICA_(enunciado)_ES.pdf - F - 18/11/2025 11:15:52
+PR1_Enun-ES (2).zip - F - 18/11/2025 11:06:55
+PR1_Enun-ES.zip - F - 10/11/2025 19:49:51
+PR2_Enun-ES - D - 17/12/2025 16:12:31
+	BMp2-es.asm - F - 17/12/2025 16:12:31
+	BMp2c-es.c - F - 17/12/2025 16:12:31
+	EC_set25-feb26_PRACTICA_(enunciado)_ES.pdf - F - 17/12/2025 16:12:31
+PR2_Enun-ES (1).zip - F - 18/12/2025 10:54:38
+PR2_Enun-ES.zip - F - 17/12/2025 16:12:23
+Product.java - F - 10/02/2026 21:44:52
+ProjectLibre-1.9.8 (1).msi - F - 16/11/2025 12:40:11
+ProjectLibre-1.9.8.msi - F - 16/11/2025 12:08:07
+Proposta11851523.pdf - F - 11/02/2026 14:46:41
+queries.sql - F - 03/02/2026 13:23:06
+quiñoajimenezadriaPR1GP_Ejercicio1.docx - F - 16/11/2025 19:08:40
+R-4.5.1-win.exe - F - 28/09/2025 14:51:22
+Registro_cambios_Aguas_Zaragoza_2025_1_plantilla.docx - F - 12/12/2025 15:04:44
+RStudio-2025.09.0-387.exe - F - 28/09/2025 14:53:51
+S2.04.restaurants.json - F - 10/02/2026 12:42:42
+Sale.java - F - 10/02/2026 21:44:56
+schema_tienda.sql - F - 28/01/2026 12:50:57
+schema_universidad.sql - F - 28/01/2026 12:50:59
+Uni-20250827T135318Z-1-001.zip - F - 27/08/2025 15:58:17
+VC_redist.x64.exe - F - 15/08/2025 19:16:13
+vendes_pac1_P_15_1-1.csv - F - 09/10/2025 16:59:52
+vendes_pac1_P_15_2-1.csv - F - 09/10/2025 16:59:53
+vendes_pac1_P_15_3-1.csv - F - 09/10/2025 16:59:54
+vendes_pac1_P_15_4-1.csv - F - 09/10/2025 16:59:55
+VirtualBox-7.2.0-170228-Win.exe - F - 15/08/2025 19:14:04
+vlc-3.0.21-win64.exe - F - 18/10/2025 17:06:05
+Vídeo sin título ‐ Hecho con Clipchamp (1).mp4 - F - 16/11/2025 22:49:27
+Vídeo sin título ‐ Hecho con Clipchamp.mp4 - F - 19/10/2025 21:57:57
