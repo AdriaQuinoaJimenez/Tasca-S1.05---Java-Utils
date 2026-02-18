@@ -1,4 +1,4 @@
-package nivell1.exercici5;
+package nivell1.exercici5.model;
 
 import java.io.Serializable;
 
